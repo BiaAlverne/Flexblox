@@ -175,7 +175,7 @@ img {
     border-top: 4px solid white;
     border-bottom: 4px solid white;
 }
-preco-item sup {
+.preco-item sup {
     font-size: 1.5rem;
 }
 .preco-item ul {
@@ -263,7 +263,7 @@ preco-item sup {
 }
 
 /*NewsLetter*/
-.nesletter {
+.newsletter {
     background: #f7f7f7;
     padding: 60px calc((100%-960px)/2);
     display: flex;
